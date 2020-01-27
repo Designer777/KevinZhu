@@ -21,7 +21,7 @@ p {
 
 a {
   padding: 25px;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 li {
@@ -47,7 +47,7 @@ li {
 }
 
 .fa-instagram {
-  background: pink;
+  background: purple;
   color: white;
 }
 
