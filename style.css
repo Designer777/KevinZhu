@@ -1,36 +1,39 @@
 body {
-    background-image: url("images/background.jpg");
+    background-image: url("images/background.png");
     font-family: Georgia;
 }
 
 h1 {
   text-align: center;
-  color: purple;
-  border: 1px;
-  border-style: solid;
+  color: plum;
 }
 
-header {
-  background-color: lightblue;
-}
 
 p {
   font-size: 16px;
   text-align: center;
+  color: lightcoral;
 }
 
 a {
   padding: 25px;
   font-size: 15px;
+  color: lightsteelblue;
 }
 
 li {
   line-height: 2;
   font-size: 14px;
+  color: lightskyblue;
 }
 
 h4 {
   line-height: 2;
+  color: lightgreen;
+}
+
+h5 {
+  color: lightgreen;
 }
 
 .fa {
